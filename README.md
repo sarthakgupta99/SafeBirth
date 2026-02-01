@@ -3,6 +3,9 @@
 ## 🏥 Introduction
 **SafeBirth** is an AI-powered platform designed to improve maternal and fetal healthcare outcomes. It empowers healthcare professionals with accurate risk predictions (Pregnancy Risk & Fetal Health) and provides a real-time analytics dashboard for monitoring institutional delivery performance.
 
+### 🔴 Live Demo
+Check out the live application here: [Launch SafeBirth App](https://sarthakgupta99-safebirth-main-v1uiql.streamlit.app/)
+
 ---
 
 ## ✨ Key Features
